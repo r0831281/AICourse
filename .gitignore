@@ -1,0 +1,10 @@
+# Ignore Jupyter notebooks
+.ipynb_checkpoints/
+
+
+# Ignore installed Python packages
+venv/
+env/
+lib/
+
+*.mp4
