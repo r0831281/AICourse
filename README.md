@@ -1,2 +1,1 @@
-"# AICourse" 
-"# AICourse" 
+# Ai course
